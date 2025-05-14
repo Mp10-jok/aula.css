@@ -1,0 +1,14 @@
+h1{
+    color: green;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+ul{
+    background-color: yellow;
+}
+header {
+    background-color: beige;
+    height: 100px;
+}
