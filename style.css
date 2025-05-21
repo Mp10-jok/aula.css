@@ -1,14 +1,21 @@
 h1{
-    color: green;
+    color: white;
     text-align: center;
+    padding: 30px;
+    border: solid black;
 }
 p{
     font-size: 20px;
 }
 ul{
-    background-color: yellow;
+    background-color: yellow;    
 }
 header {
-    background-color: beige;
+    background-color: green;
     height: 100px;
+}
+input {
+    padding: 10px;
+    border-radius: 50px;
+    border-color: green;
 }
